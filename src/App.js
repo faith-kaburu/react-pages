@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          <h1>FAITH KABURU</h1>
-         <h2>REACT</h2>
+         <h2>REACT APP</h2>
         </p>
         <a
           className="App-link"
